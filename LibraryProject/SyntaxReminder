@@ -1,0 +1,11 @@
+Remember, need to put
+
+SOURCE C:/xampp/mysql/LibraryProject/[file name];
+
+to insert into table.  (This is the path for me anyway.)
+
+I had the database files at:
+C:\xampp\mysql\data\libraryproject
+
+and the sql files at:
+C:\xampp\mysql\LibraryProject
